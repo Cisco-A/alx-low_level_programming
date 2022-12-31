@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints the last digit of a randomly generated number
- * and whether it is greater than 5, less than 6, or 0.
+ * main - Prints the alphabet in lower case 
  * Return: Always 0.
 */
 
@@ -16,6 +15,6 @@ int main(void)
 	{
 		putchar(alph[i]);
 	}
-	putchar("\n");
+	putchar('\n');
 	return (0);
 }
