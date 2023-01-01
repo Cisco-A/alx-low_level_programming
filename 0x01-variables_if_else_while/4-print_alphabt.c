@@ -17,4 +17,6 @@ int main(void)
 		if (alph[i] != 'q' && alph[i] != 'e')
 			putchar(alph[i]);
 	}
+	putchar('\n');
+	return (0);
 }
