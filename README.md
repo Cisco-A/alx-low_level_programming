@@ -1,1 +1,1 @@
-More tasks on pointers, arrays and strings
+Projects on C programming language
