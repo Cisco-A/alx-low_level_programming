@@ -13,7 +13,7 @@ int binary_search(int *array, size_t size, int value)
 {
 	if (array != NULL)
 	{
-		size_t new_size = size;        
+		size_t new_size = size;
 
 		while (new_size > 1)
 		{
